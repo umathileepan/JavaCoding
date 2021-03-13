@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @umathileepan
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning React and refreshing Java.
+- 🌱 I’m currently refreshing Java.
 - 💞️ I’m looking to collaborate on software developer company.
 - 📫 How to reach me ...
 
